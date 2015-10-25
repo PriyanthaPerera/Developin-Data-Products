@@ -1,5 +1,4 @@
 library("shiny")
-setwd("C:/0/Coursera/DevelopingDataProducts/shinyApps")
 
 
 shinyUI(pageWithSidebar(
